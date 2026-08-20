@@ -28,12 +28,9 @@ jobs:
 
           # --- Languages activity, in-depth (clones & analyzes repos) ---
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_indepth: yes
-          plugin_languages_details: lines-mapping, bytes-mapping, percentage
+          plugin_languages_indepth: no
           plugin_languages_limit: 8
           plugin_languages_threshold: 0%
-          plugin_languages_skipped: KetchDev/coming-soon, KetchDev/sitoPersonale-particles-
 
           # --- Achievements, compact display ---
           plugin_achievements: yes
