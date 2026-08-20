@@ -10,7 +10,4 @@
 
 ![Metrics](./metrics.svg)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KetchDev&layout=compact&theme=tokyonight)
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:5B137A,50:C146F6,100:5B137A&height=150&section=footer&animation=fadeIn)
