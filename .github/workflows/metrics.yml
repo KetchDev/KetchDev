@@ -20,6 +20,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.svg
           base: header, activity, community, repositories
+          config_display: columns
+          config_columns: 2
 
           # --- Full-year isometric contribution calendar ---
           plugin_isocalendar: yes
