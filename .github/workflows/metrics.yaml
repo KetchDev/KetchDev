@@ -42,3 +42,5 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_threshold: 0%
           plugin_languages_skipped: ketchdev/coming-soon,ketchdev/sitopersonale-particles-
+          extras_css: |
+            h2 { display: none !important; }
