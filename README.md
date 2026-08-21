@@ -16,20 +16,14 @@
   </picture>
 </p>
 
-<table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none;">
-  <tr>
-    <td width="50%" valign="top" style="border:none;">
-      <img src="./metrics-base.svg" width="100%" />
-    </td>
-    <td width="50%" valign="top" style="border:none;">
-      <img src="./metrics-calendar.svg" width="100%" />
-    </td>
-  </tr>
-</table>
+<img src="./metrics-base.svg" align="left" width="49%" />
+<img src="./metrics-calendar.svg" align="right" width="49%" />
+<br clear="both" />
 
 <p align="center">
   <img src="./metrics-languages.svg" width="90%" />
 </p>
+
 <h3 align="center">💻 Languages, Markup & Frontend</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,py,pytorch,html,css,md,react,vue,nextjs,nuxtjs,remix,vite" />
