@@ -47,7 +47,9 @@
 
 <h3 align="center">🎶 What I'm Vibing To</h3>
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=cacioc&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true&bar_color=c146f6)](https://spotify-github-profile.kittinanx.com/api/view?uid=cacioc&redirect=true">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=cacioc&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
+  </a>
 </p>
 
 <p align="center">
