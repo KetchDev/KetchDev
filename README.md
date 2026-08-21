@@ -16,8 +16,8 @@
   </picture>
 </p>
 
-<img src="./metrics-base.svg" align="left" width="49%" />
-<img src="./metrics-calendar.svg" align="right" width="49%" />
+<img src="./metrics-base.svg" align="left" width="48%" />
+<img src="./metrics-calendar.svg" align="right" width="48%" />
 <br clear="both" />
 
 <p align="center">
