@@ -16,12 +16,12 @@
   </picture>
 </p>
 
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="border:none;">
       <img src="./metrics-base.svg" width="100%" />
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="border:none;">
       <img src="./metrics-calendar.svg" width="100%" />
     </td>
   </tr>
