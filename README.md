@@ -35,6 +35,11 @@
   <img src="https://skillicons.dev/icons?i=docker,k8s,nginx,cloudflare,vercel,npm,pnpm,yarn,git,github,vscode,bash,regex,discord" />
 </p>
 
+<h3 align="center">🎶 What I'm Vibing To</h3>
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=cacioc&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true&bar_color=c146f6)](https://spotify-github-profile.kittinanx.com/api/view?uid=cacioc&redirect=true">
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B137A,50:C146F6,100:5B137A&height=150&section=footer&animation=fadeIn" />
 </p>
